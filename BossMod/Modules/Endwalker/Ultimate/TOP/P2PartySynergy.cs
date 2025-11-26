@@ -63,10 +63,10 @@ sealed class P2PartySynergy(BossModule module) : CommonAssignments(module)
         // assuming standard 'blue-purple-orange-green' order
         var order = iconID switch
         {
-            (uint)IconID.PartySynergyCross => 1,
-            (uint)IconID.PartySynergySquare => 2,
-            (uint)IconID.PartySynergyCircle => 3,
-            (uint)IconID.PartySynergyTriangle => 4,
+            (uint)IconID.PartySynergyCircle => 1,
+            (uint)IconID.PartySynergyCross => 2,
+            (uint)IconID.PartySynergyTriangle => 3,
+            (uint)IconID.PartySynergySquare => 4,
             _ => 0
         };
         Assign(actor, order);
