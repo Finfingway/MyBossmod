@@ -1,8 +1,8 @@
 {
-  "Author": "The Combat Reborn Team",
-  "Name": "BossMod Reborn",
-  "InternalName": "BossModReborn",
-  "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+  "Author": "The Combat Reborn Team / Finfingway",
+  "Name": "MyBossmod",
+  "InternalName": "MyBossmod",
+  "RepoUrl": "https://https://github.com/Finfingway/MyBossmod",
   "Description": "A bunch of utilities to simplify boss mechanics",
   "ApplicableVersion": "any",
   "Tags": [
